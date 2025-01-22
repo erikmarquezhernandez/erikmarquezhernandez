@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/erikmarquezhernandez/erikmarquezhernandez/blob/main/Erik%20M%C3%A1rquez.png?raw=true" width="800"/>
 </div>
 
-<h1>
+<h1 align="center">
   Hola soy Erik. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
