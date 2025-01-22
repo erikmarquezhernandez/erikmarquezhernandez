@@ -7,6 +7,18 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+ <div id="header" align="left">
+
+### :technologist: Sobre mí 
+
+Soy un apasionado del análisis de datos y me encanta descubrir los secretos que esconden: patrones, tendencias, agrupaciones, y más. Siempre busco nuevas formas de mejorar y automatizar procesos.
+
+- 📘 Actualmente estoy estudiando y practicando **SQL** y **Azure Machine Learning**, aprovechando al máximo las herramientas de Microsoft.  
+- 📊 Mi mayor interés en este momento son las **series de tiempo** y su aplicación en el sector bursátil.  
+- 🤖 Me motiva encontrar nuevas formas de **automatizar mi trabajo** y optimizar tareas repetitivas.  
+
+¡Siempre estoy buscando aprender algo nuevo y crecer profesionalmente!
 <!--
 **erikmarquezhernandez/erikmarquezhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
