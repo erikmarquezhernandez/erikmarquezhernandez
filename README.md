@@ -1,9 +1,11 @@
-## Hi there 👋
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/erikmarquezhernandez/erikmarquezhernandez/blob/main/Erik%20M%C3%A1rquez.png?raw=true" width="800"/>
 </div>
 
-
+<h1>
+  Hola soy Erik. ¡Encantado de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **erikmarquezhernandez/erikmarquezhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
