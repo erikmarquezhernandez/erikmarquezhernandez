@@ -19,6 +19,20 @@ Soy un apasionado del análisis de datos y me encanta descubrir los secretos que
 - 🤖 Me motiva encontrar nuevas formas de **automatizar mi trabajo** y optimizar tareas repetitivas.  
 
 ¡Siempre estoy buscando aprender algo nuevo y crecer profesionalmente!
+
+---
+
+### Habilidades Técnicas:
+
+- Lenguajes de Programación: Python, SQL
+- Científico de Datos: Pandas, Matplotlib, Seaborn, Scikit-learn, Lightgbm, Keras
+- Plataformas en la Nube: Microsoft Azure
+- Otras Herramientas: Excel
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+
+
 <!--
 **erikmarquezhernandez/erikmarquezhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
